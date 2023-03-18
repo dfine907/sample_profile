@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: center;
+}
