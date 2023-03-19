@@ -7,7 +7,7 @@ colorModeBtn.addEventListener('click', function () {
 
 const myName = document.getElementById('name')
 myName.addEventListener('mouseover', function () {
-  myName.style.color = 'brown'
+  myName.style.color = 'limegreen'
 })
 
 const hideButton = document.getElementById('hide_btn')
